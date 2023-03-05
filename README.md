@@ -8,7 +8,7 @@ To run this project, you will need to have Node.js installed on your computer. Y
 
 After installing Node.js, navigate to the project directory in a command prompt or terminal window and install the required dependencies by running the following command:
 
-npm install
+'npm install'
 
 This command will install all the necessary packages required by the application, as listed in the package.json file.
 
@@ -26,7 +26,7 @@ Replace <your_api_key_here> with your actual OpenAI API key.
 
 To start the ChatGPT clone, navigate to the project directory in a command prompt or terminal window and run the following command:
 
-node server.js
+'node server.js'
 
 This command will start the Node.js server and launch the application. You can access the application at http://localhost:3000.
 
